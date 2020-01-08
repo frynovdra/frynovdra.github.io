@@ -46,8 +46,8 @@ Beberapa fitur penting dari git adalah :
 Untuk lebih lanjut dapat anda temukan pada command **$ git help** ,dan 
 berikut adalah langkah membuat Repository Git dari terminal :
 
-**1.** git init 
-**2.** git add README.md
-**3.** git commit -m "first commit"
-**4.** git remote add origin git@github.com:corrupteddevkit/IshtearNodeJS.git
-**5.** git push -u origin master
+1. git init 
+2. git add README.md
+3. git commit -m "first commit"
+4. git remote add origin git@github.com:corrupteddevkit/IshtearNodeJS.git
+5. git push -u origin master
